@@ -1,0 +1,25 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition\r == Chapter 2: JavaScript Development Tools\r In this chapter we're learning about Git and other\r development tools.",
+  "main": "main.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisiasty86/LEARNING_JAVASCRIPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisiasty86/LEARNING_JAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/lisiasty86/LEARNING_JAVASCRIPT#readme"
+}
