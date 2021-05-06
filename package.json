@@ -4,7 +4,7 @@
   "description": "= Learning JavaScript, 3rd Edition\r == Chapter 2: JavaScript Development Tools\r In this chapter we're learning about Git and other\r development tools.",
   "main": "main.js",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "gulp": "^4.0.2"
